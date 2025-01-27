@@ -2582,3 +2582,19 @@ form .site-btn{
 .fa-brands{
 	font-size: 1.5rem;
 }
+
+.link-container{
+	display: flex ;
+	justify-content: space-around;
+	margin: 20px 0;
+}
+
+.link-container a{
+	/* text-decoration: none; */
+	color: #fff;
+	text-decoration: underline;
+}
+
+.link-container a:hover{
+	color: #e6ff00;
+}
